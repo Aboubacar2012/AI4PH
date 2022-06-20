@@ -1,6 +1,8 @@
 # kaggle-predicting-no-show-appointments
 This project uses the dataset https://www.kaggle.com/joniarroba/noshowappointments of medical appointments no-show. 
 
+https://medium.com/@belagoesr/can-we-predict-if-patients-will-miss-their-medical-appointments-8a14116048f7
+
 The purpose is to investigate which factors influences on a person missing an appointment as well as predict if a person will miss the appointment.
 
 **Steps:**
